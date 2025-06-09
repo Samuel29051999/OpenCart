@@ -1,0 +1,53 @@
+23:13:46.032 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+23:13:46.115 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+23:13:46.164 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+23:13:46.166 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+23:13:46.583 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+23:14:33.596 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+23:14:33.745 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+23:14:33.792 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+23:14:33.793 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+23:14:35.102 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+23:14:35.138 [main] INFO  testCases.TC001_AccountRegisterTest - ********Finished TC001_AccountRegisterTest**********
+23:19:16.091 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+23:19:16.181 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+23:19:16.228 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+23:19:16.229 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+23:19:17.742 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+14:14:01.255 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+14:14:01.405 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+14:14:01.451 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+14:14:01.452 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+14:14:02.888 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+14:14:02.927 [main] INFO  testCases.TC001_AccountRegisterTest - ********Finished TC001_AccountRegisterTest**********
+14:14:25.784 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+14:14:25.948 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+14:14:25.989 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+14:14:25.990 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+14:14:27.364 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+14:14:27.398 [main] ERROR testCases.TC001_AccountRegisterTest - Test failed...
+14:14:27.398 [main] DEBUG testCases.TC001_AccountRegisterTest - Debugs log...
+15:05:21.535 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+15:05:21.611 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+15:05:21.661 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+15:05:21.663 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+15:05:23.077 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+15:05:23.107 [main] ERROR testCases.TC001_AccountRegisterTest - Test failed...
+15:05:23.107 [main] DEBUG testCases.TC001_AccountRegisterTest - Debugs log...
+15:06:04.200 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+15:06:04.280 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+15:06:04.318 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+15:06:04.319 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+15:06:05.710 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+15:06:05.739 [main] INFO  testCases.TC001_AccountRegisterTest - ********Finished TC001_AccountRegisterTest**********
+15:24:33.033 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+15:24:33.204 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+15:24:33.254 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+15:24:33.255 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+15:24:34.577 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
+15:24:34.608 [main] INFO  testCases.TC001_AccountRegisterTest - ********Finished TC001_AccountRegisterTest**********
+15:24:37.573 [main] INFO  testCases.TC001_AccountRegisterTest - ********Starting TC001_AccountRegisterTest*********
+15:24:37.652 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Account
+15:24:37.689 [main] INFO  testCases.TC001_AccountRegisterTest - Click on my Register
+15:24:37.690 [main] INFO  testCases.TC001_AccountRegisterTest - Providing customer details
+15:24:39.079 [main] INFO  testCases.TC001_AccountRegisterTest - Validation the final Message
