@@ -33,6 +33,7 @@ public class BaseClass {
 
 	@BeforeClass(groups = { "Sanity", "Regression", "Master" })
 	@Parameters({ "os", "browser" })
+	//
 	public void setUp(String os, String br) throws IOException {
 
 		FileReader file = new FileReader("./src/test/resources/Config.properties");
@@ -93,7 +94,8 @@ public class BaseClass {
 		
 		   switch (br.toLowerCase()) {
 		   
-		   case "chrome": driver = new ChromeDriver(); break; case "edge": driver = new
+		   case "chrome": driver = new ChromeDriver(); break; 
+		   case "edge": driver = new
 		   EdgeDriver(); break; case "firefox": driver = new FirefoxDriver(); break;
 		   default : System.out.println("\"Invalid Browser Name.........\" "); return;
 		  
@@ -107,11 +109,11 @@ public class BaseClass {
 		driver.manage().window().maximize();
 	}
 
-	@AfterClass(groups = { "Sanity", "Regression", "Master" })
-	public void teardown() {
-
-		driver.quit();
-	}
+//	@AfterClass(groups = { "Sanity", "Regression", "Master" })
+//	public void teardown() {
+//
+//		driver.quit();
+//	}
 
 	public String randomString() {
 
