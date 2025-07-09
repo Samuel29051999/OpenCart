@@ -27,7 +27,7 @@ public class TC002_LoginTest extends BaseClass {
 		
 		lp.setEmailID(p.getProperty("email"));
 		
-		lp.setPassword(p.getProperty("passwo"));
+		lp.setPassword(p.getProperty("password"));
 		
 		lp.clickLogin();
 		
