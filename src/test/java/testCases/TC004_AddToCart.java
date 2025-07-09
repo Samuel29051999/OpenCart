@@ -13,7 +13,7 @@ public class TC004_AddToCart extends BaseClass{
 
 	
 @Test
-    	public void AddToCart () {
+    	public void AddToCart () throws InterruptedException {
 	        
 	        HeaderPage hd = new HeaderPage(driver);
 
@@ -34,7 +34,10 @@ public class TC004_AddToCart extends BaseClass{
     		
     		cart.clickEstimateAccordion();
     		cart.selectCountryDropDown("India");
+    		Thread.sleep(30);
     		cart.selectZoneDropDown("Maharashtra");
+    		Thread.sleep(30);
+
     		cart.enterPostCode("400059");
     		cart.clickOnGetQuotes();
     		

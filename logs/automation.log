@@ -95,3 +95,55 @@
 22:37:05.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
 
+22:46:04.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:46:04.406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:46:58.230 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:46:58.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+23:20:48.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+23:20:48.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:32:00.049 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:32:00.286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:32:57.964 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:32:58.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:33:23.836 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:33:24.104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:34:22.915 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:34:23.203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:34:35.772 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:34:36.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:35:07.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:35:08.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:45:21.075 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:45:21.399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:46:22.157 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:46:22.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:48:23.719 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:48:23.984 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
+22:48:46.642 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\samue\Desktop\Codes\OpenCart\Master.xml"
+22:48:46.882 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\samue\Desktop\Codes\OpenCart\Master.xml
+
