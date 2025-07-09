@@ -13,7 +13,7 @@ public class TC002_LoginTest extends BaseClass {
 	@Test(groups={"Sanity","Master"})
 	public void verifyLogin() {
 		
-		logger.info("******TC002_LoginTest Started******");
+		logger.info("******TC002_LoginTest has Started******");
 		
 		try {
 		HomePage hp = new HomePage(driver);
